@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h>
-SoftwareSerial BTserial(10, 11); // RX | TX
+SoftwareSerial BTserial(3, 2); // RX | TX
 
 char c = ' ';
 String d;
